@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Case _ Get User</name>
+   <name>test_case_example</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
